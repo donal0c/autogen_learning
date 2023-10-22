@@ -1,6 +1,6 @@
 
 {
     "model": "gpt-4",
-    "api_key": "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"
+    "api_key": "OPENAI_API_KEY"
 }
 
